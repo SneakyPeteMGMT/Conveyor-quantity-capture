@@ -24,7 +24,8 @@ DE: Ein Python-basiertes Tool zum Erfassen und Protokollieren von Objektdurchlä
       Software
       - Arduino IDE
       - Python-compatible IDE + dependencies (pyserial)
-
+      - CH340 driver for USB-B
+      
       Setup
 
       1. Connect your Arduino/Microcontroller to your PC. Start the Sketch combined.ino.
